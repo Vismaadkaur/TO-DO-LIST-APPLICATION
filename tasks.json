@@ -1,98 +1,20 @@
-
 [
- {
- "description": "Python Introduction Assignment",
- "due_date": "2024-10-03",
- "category": "Urgent"
- }
-]
-[
- {
- "description": "Python Functions Assignment 2",
- "due_date": "2024-10-15",
- "category": "work",
- }
-]
-[
- {
- "description": "Minor Project",
- "due_date": "2024-10-15",
- "category": "work"
- }
-]
-[
- {
- "description": "Final Project",
- "due_date": "2024-10-15",
- "category": "work"
- }
-]
-
-[
- {
- "description": "Python Introduction Assignment",
- "due_date": "2024-10-03",
- "category": "Urgent",
- "status": "Pending"
- },
- {
- "description": "Python Functions Assignment 2",
- "due_date": "2024-10-15",
- "category": "work",
- "status": "Pending"
- },
- {
- "description": "Minor Project",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- },
- {
- "description": "Final project",
- "due_date": "2024-10-15",
- "category": "work",
- "status": "Pending"
- }
-]
-
-[
- {
- "description": "Python Introduction Assignment",
- "due_date": "2024-10-03",
- "category": "Urgent",
- "status": "Completed"
- },
- {
- "description": "Python Functions Assignment 2",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- },
- {
- "description": "Minor Project",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- },
- {
- "description": "Final Project",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- }
-]
-
-[
- {
- "task_name": "Minor Project",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- },
- {
- "task_name": "Final Project",
- "due_date": "2024-10-15",
- "category": "Work",
- "status": "Pending"
- }
+    {
+        "description": " Python Assignment 1",
+        "due_date": "2024-10-15",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "description": "Python Assignment 2",
+        "due_date": "2024-10-20",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "description": "Submit Major Project through github ",
+        "due_date": "2024-10-22",
+        "category": "Urgent",
+        "completed": false
+    }
 ]
