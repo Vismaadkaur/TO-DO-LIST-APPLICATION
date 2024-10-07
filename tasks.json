@@ -1,0 +1,98 @@
+#Adding a task
+[
+ {
+ "description": "Python Introduction Assignment",
+ "due_date": "2024-10-03",
+ "category": "Urgent"
+ }
+]
+[
+ {
+ "description": "Python Functions Assignment 2",
+ "due_date": "2024-10-15",
+ "category": "work",
+ }
+]
+[
+ {
+ "description": "Minor Project",
+ "due_date": "2024-10-15",
+ "category": "work"
+ }
+]
+[
+ {
+ "description": "Final Project",
+ "due_date": "2024-10-15",
+ "category": "work"
+ }
+]
+#View task
+[
+ {
+ "description": "Python Introduction Assignment",
+ "due_date": "2024-10-03",
+ "category": "Urgent",
+ "status": "Pending"
+ },
+ {
+ "description": "Python Functions Assignment 2",
+ "due_date": "2024-10-15",
+ "category": "work",
+ "status": "Pending"
+ },
+ {
+ "description": "Minor Project",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ },
+ {
+ "description": "Final project",
+ "due_date": "2024-10-15",
+ "category": "work",
+ "status": "Pending"
+ }
+]
+#Mark task as Completed
+[
+ {
+ "description": "Python Introduction Assignment",
+ "due_date": "2024-10-03",
+ "category": "Urgent",
+ "status": "Completed"
+ },
+ {
+ "description": "Python Functions Assignment 2",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ },
+ {
+ "description": "Minor Project",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ },
+ {
+ "description": "Final Project",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ }
+]
+#Delete a task
+[
+ {
+ "task_name": "Minor Project",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ },
+ {
+ "task_name": "Final Project",
+ "due_date": "2024-10-15",
+ "category": "Work",
+ "status": "Pending"
+ }
+]
