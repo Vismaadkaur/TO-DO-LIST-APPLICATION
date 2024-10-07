@@ -1,4 +1,4 @@
-#Adding a task
+
 [
  {
  "description": "Python Introduction Assignment",
@@ -27,7 +27,7 @@
  "category": "work"
  }
 ]
-#View task
+
 [
  {
  "description": "Python Introduction Assignment",
@@ -54,7 +54,7 @@
  "status": "Pending"
  }
 ]
-#Mark task as Completed
+
 [
  {
  "description": "Python Introduction Assignment",
@@ -81,7 +81,7 @@
  "status": "Pending"
  }
 ]
-#Delete a task
+
 [
  {
  "task_name": "Minor Project",
